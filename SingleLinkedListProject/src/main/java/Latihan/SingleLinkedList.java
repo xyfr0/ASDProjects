@@ -1,11 +1,9 @@
 package Latihan;
 
 class Node{
-    Object data;
-    int data;
+    Object data;    
 }
 
-public class SingleLinkedList {
-    Object data;
+public class SingleLinkedList {    
     Node head;
 }
